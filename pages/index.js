@@ -6,6 +6,7 @@ import HomeSlide2 from "../slides/homeSlide2"
 //CSS
 import styles from '../styles/main.module.css'
 
+//Home
 function HomePage() {
     return <>
     <LOGO></LOGO>
